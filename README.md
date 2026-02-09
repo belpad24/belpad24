@@ -20,4 +20,4 @@ Mi recorrido profesional integra ciencia, análisis, salud y bienestar, con una 
 - **Sistema experto de soporte**: desarrollo lógico y reglas para asistencia técnica.
 
 ## 📫 Contacto
-- LinkedIn: [(tu link)](https://www.linkedin.com/in/mariana-bel%C3%A9n-padron-1199711b2/)
+- LinkedIn: (https://www.linkedin.com/in/mariana-bel%C3%A9n-padron-1199711b2/)
