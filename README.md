@@ -16,7 +16,7 @@ Mi recorrido profesional integra ciencia, análisis, salud y bienestar, con una 
 
 ## 📂 Proyectos Destacados
 - **Clasificación de empleo (EPH)**: modelo de Machine Learning para predecir condición laboral a partir de variables sociodemográficas.  
-- **Aprendizaje automático**: prácticas y ejercicios con distintos algoritmos.  
+- **sistente técnico con LLM local (RAG)**: proyecto grupal académico con empresa real.
 - **Sistema experto de soporte**: desarrollo lógico y reglas para asistencia técnica.
 
 ## 📫 Contacto
