@@ -1,24 +1,4 @@
-👋 Hola, soy Belén
-
-🎓 Egresada de la Tecnicatura en Ciencias de Datos e Inteligencia Artificial  
-📊 Interesada en Data Analytics, Machine Learning y visualización de datos  
-
-🛠️ Herramientas:
-- Python
-- Pandas, NumPy, Matplotlib
-- Power BI
-- Excel
-- Git & GitHub
-
-📂 Proyectos destacados:
-- Clasificación de empleo (EPH)
-- Análisis exploratorio de datos
-- Sistemas expertos
-
-📫 Contacto:
-- LinkedIn: https://www.linkedin.com/in/mariana-bel%C3%A9n-padron-1199711b2/ 
-
-# 👋 Hola, soy Belén
+✨ Hola, soy Belén
 
 🎓 Egresada 2025 de la Tecnicatura en Ciencias de Datos e Inteligencia Artificial.  
 Cuento con experiencia previa en ámbitos técnicos, científicos y de calidad, y actualmente me encuentro desarrollando proyectos en análisis de datos y aprendizaje automático.
@@ -40,4 +20,4 @@ Mi recorrido profesional integra ciencia, análisis, salud y bienestar, con una 
 - **Sistema experto de soporte**: desarrollo lógico y reglas para asistencia técnica.
 
 ## 📫 Contacto
-- LinkedIn: (tu link)
+- LinkedIn: [(tu link)](https://www.linkedin.com/in/mariana-bel%C3%A9n-padron-1199711b2/)
