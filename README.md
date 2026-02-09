@@ -1,4 +1,4 @@
-✨ Hola, soy Belén
+## ✨ Hola, soy Belén
 
 🎓 Egresada 2025 de la Tecnicatura en Ciencias de Datos e Inteligencia Artificial.  
 Cuento con experiencia previa en ámbitos técnicos, científicos y de calidad, y actualmente me encuentro desarrollando proyectos en análisis de datos y aprendizaje automático.
